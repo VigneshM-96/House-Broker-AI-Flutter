@@ -1,0 +1,34 @@
+location,Area_sqft,Bedrooms,Bathrooms,Halls,Kitchens,Price_Lakhs
+Vadapalani,850,2,2,1,1,78
+Vadapalani,1100,3,2,1,1,95
+Vadapalani,1450,3,3,1,1,125
+Vadapalani,1800,4,3,2,1,165
+
+Ambattur,750,2,1,1,1,48
+Ambattur,1000,3,2,1,1,65
+Ambattur,1300,3,2,1,1,82
+Ambattur,1600,4,3,2,1,105
+
+Avadi,700,2,1,1,1,42
+Avadi,950,3,2,1,1,58
+Avadi,1200,3,2,1,1,72
+Avadi,1500,4,3,2,1,92
+
+Porur,900,2,2,1,1,70
+Porur,1200,3,2,1,1,92
+Porur,1500,3,3,1,1,118
+Porur,1900,4,3,2,1,155
+
+Velachery,850,2,2,1,1,75
+Velachery,1150,3,2,1,1,98
+Velachery,1450,3,3,1,1,125
+Velachery,1850,4,3,2,1,168
+
+Tambaram,800,2,1,1,1,55
+Tambaram,1050,3,2,1,1,72
+Tambaram,1350,3,2,1,1,88
+Tambaram,1700,4,3,2,1,115
+
+Anna Nagar,900,2,2,1,1,110
+Anna Nagar,1200,3,2,1,1,145
+Anna Nagar,1600,3,3,1,1,185
